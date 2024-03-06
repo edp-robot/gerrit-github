@@ -1,0 +1,1 @@
+1. Application gerrit-github has been successfully deployed!!
